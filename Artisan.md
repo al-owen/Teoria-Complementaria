@@ -1,15 +1,3 @@
-
-- [[#Serve:|Serve:]]
-- [[#List:|List:]]
-- [[#Migrate:|Migrate:]]
-- [[#Make:|Make:]]
-	- [[#Make:#make:controller|make:controller]]
-	- [[#Make:#make:middleware|make:middleware]]
-	- [[#Make:#make:migration|make:migration]]
-	- [[#Make:#make:model|make:model]]
-	- [[#Make:#make:resource|make:resource]]
-	- [[#Make:#make:view|make:view]]
-
 ## Serve: 
 Inicia el servidor de desarrollo.
 ``` bash
