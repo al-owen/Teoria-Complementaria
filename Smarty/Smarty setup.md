@@ -28,7 +28,12 @@ require_once 'libs/Smarty.class.php';
 use Smarty\Smarty;
 
 //Crear la instancia de Smarty
-$smarty = new Smarty();
+$smarty = new Smarty();Name: Smarty Template Support
+Id: aswinkumar863.smarty-template-support
+Description: Smarty template support with formatting, folding, snippets, syntax highlighting and more
+Version: 2.1.1
+Publisher: Aswin Kumar
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support
 
 //configuración de directorios
 $smarty->setTemplateDir(__DIR__ .'/templates/');
@@ -51,6 +56,4 @@ emmet.includeLanguages": {
    "smarty": "html"
 }
 ```
-## Forma automática
-1. Descargar e instalar composer en [Composer](https://getcomposer.org/Composer-Setup.exe)
-2.  
+9. Añadir una extensión de smarty, por ejemplo esta: [smarty extension](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
